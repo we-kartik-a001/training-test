@@ -1,5 +1,7 @@
 <?php
 
+   echo"v1";
+   
    include "classes/encrypt.php";
    include "thirdparty/enc.php";
 
