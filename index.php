@@ -7,7 +7,7 @@
    
    include "classes/encrypt.php";
    include "thirdparty/enc.php";
-
+asas
    // using the namespace with the class to avoid the classes collision
    use encrypt\encrypt as projectenc;
    use thirdparty\encrypt as thirdparty;
