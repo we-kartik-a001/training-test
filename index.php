@@ -1,6 +1,7 @@
 <?php
 
    echo"v1";
+   echo"v2";
    echo"v3";
    
    include "classes/encrypt.php";
